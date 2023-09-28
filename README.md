@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body>
 <h1>Weirdo's Oficial store.</h1>
