@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<head><title>Weirdo's store</title></head>
 <h1>Weirdo's Oficial store.</h1>
 <h5>Here you will be able to find the <strong>best</strong> merch.</h5>
 <h1>Shoes list.</h1>
