@@ -35,6 +35,5 @@
 <img src=https://w7.pngwing.com/pngs/52/833/png-transparent-dc-shoe-co-usa-hd-logo.png Width="200" Height="200">
 <img src=https://www.afflictionclothing.com/cdn/shop/files/AFF-LOGO_ed19edea-c4b0-48ee-92b2-df74bcad19da_2048x.png?v=1613639487 Width="200" Height="200">
 <img src=https://www.pressrelease.com/files/4d/66/74daac62bc42f29d88117b8460f3.png Width="200" Height="200">
-<link rel="stylesheet" type="text/css" href="https://github.com/legoman8304/legoman8304.github.io/blob/master/style.css">
 </body>
 </html>
