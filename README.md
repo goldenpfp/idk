@@ -15,7 +15,7 @@
 </ul>
 <h1>Shirts list.</h1>
 <ul>
-<li><a href="https://www.carousell.ph/p/affliction-goth-grunge-punk-shirt-1182484317/" target="_blank">Affliction Goth/Grunge/Punk<a></li>
+<li><a href="https://www.carousell.ph/p/affliction-goth-grunge-punk-shirt-1182484317/" target="_blank">Affliction Goth/Grunge/Punk</a></li>
 <img src="https://media.karousell.com/media/photos/products/2022/9/2/affliction_gothgrungepunk_shir_1662148654_97a96164_progressive.jpg" alt="Shirt" Width="200" Height="200">
 <li><a href="https://discountbloc.ru/archive/products/w2zwxzvxyyzx.html" target="_blank">Affliction T-Shirts Lot Of</a></li>
 <img src="https://i.ebayimg.com/images/g/0v4AAOSwyNpkOWkZ/s-l1600.jpg" alt="Shirt" Width="200" Height="200">
@@ -36,5 +36,6 @@
 <img src="https://w7.pngwing.com/pngs/52/833/png-transparent-dc-shoe-co-usa-hd-logo.png" alt="DCSHOES logo" Width="200" Height="200">
 <img src="https://www.afflictionclothing.com/cdn/shop/files/AFF-LOGO_ed19edea-c4b0-48ee-92b2-df74bcad19da_2048x.png?v=1613639487" alt="Affliction logo" Width="200" Height="200">
 <img src="https://www.pressrelease.com/files/4d/66/74daac62bc42f29d88117b8460f3.png" alt="Jnco logo" Width="200" Height="200">
+<link rel="stylesheet" href="mystyle.css">
 </body>
 </html>
